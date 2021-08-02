@@ -11,4 +11,4 @@ natas8 -> DBfUBfqQG69KvJvJ1iAbMoIpwSNQ9bWe
 natas9 -> W0mMhUcRRnG8dcghE4qvk3JA9lGt8nDl
 natas10 -> input injection --> nOpp1igQAkUzaI1GUUjzn1bFVj7xCNzu
 natas11 -> grep -i -r . /etc/... --> U82q5TCMMQ9xuFoI3dYX61s7OZD9JKoK
-
+natas12 -> php xor decrypt with key --> 
